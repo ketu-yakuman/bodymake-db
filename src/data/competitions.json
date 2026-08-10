@@ -1,0 +1,18 @@
+[
+  {
+    "id": "jbbf-nihon-2025",
+    "name": "2025年 日本選手権大会",
+    "federationId": "jbbf",
+    "date": "2025-10-12",
+    "venue": "東京都",
+    "categories": ["男子ボディビル", "女子フィジーク"]
+  },
+  {
+    "id": "jbbf-masters-2025",
+    "name": "All Japan マスターズフィットネス選手権 2025",
+    "federationId": "jbbf",
+    "date": "2025-09-13",
+    "venue": "",
+    "categories": ["ビキニフィットネス", "メンズフィジーク", "ボディフィットネス"]
+  }
+]

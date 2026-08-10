@@ -1,0 +1,71 @@
+---
+import Base from "../../layouts/Base.astro";
+import { withBase } from "../../lib/url.js";
+import competitions from "../../data/competitions.json";
+import athletes from "../../data/athletes.json";
+import results from "../../data/results.json";
+import federations from "../../data/federations.json";
+
+export function getStaticPaths() {
+  return competitions.map((c) => ({
+    params: { id: c.id },
+    props: { competition: c },
+  }));
+}
+
+const { competition } = Astro.props;
+const federation = federations.find((f) => f.id === competition.federationId);
+
+const entries = results
+  .filter((r) => r.competitionId === competition.id)
+  .map((r) => ({ ...r, athlete: athletes.find((a) => a.id === r.athleteId) }))
+  .sort((a, b) => a.rank - b.rank);
+
+const byCategory = competition.categories.map((cat: string) => ({
+  category: cat,
+  entries: entries.filter((e) => e.category === cat),
+}));
+---
+<Base title={competition.name}>
+  <div class="comp-header">
+    <p class="eyebrow">{federation?.name} ／ {competition.date} ／ {competition.venue}</p>
+    <h1>{competition.name}</h1>
+  </div>
+
+  {byCategory.map(({ category, entries }) => (
+    entries.length > 0 && (
+      <div class="category-block">
+        <h2 class="section-title">{category}</h2>
+        <ul class="record-list">
+          {entries.map((e) => (
+            <li class:list={["record-item", { win: e.rank === 1 }]}>
+              <span class="rank">{e.rank}</span>
+              <a class="athlete-name" href={withBase(`/athletes/${e.athlete.id}/`)}>{e.athlete.name}</a>
+              <span class="athlete-pref">{e.athlete.prefecture}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
+  ))}
+</Base>
+
+<style>
+  .comp-header { padding-bottom: 28px; margin-bottom: 28px; border-bottom: 1px solid var(--line); }
+  .eyebrow { font-family: "Oswald", sans-serif; letter-spacing: 0.1em; font-size: 12px; color: var(--text-dim); margin: 0 0 8px; }
+  h1 { font-size: 26px; margin: 0; }
+
+  .category-block { margin-bottom: 32px; }
+  .section-title {
+    font-family: "Oswald", sans-serif; font-size: 13px; letter-spacing: 0.1em;
+    color: var(--text-dim); margin: 0 0 12px;
+  }
+
+  .record-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+  .record-item { display: flex; align-items: center; gap: 16px; padding: 12px 4px; border-bottom: 1px solid var(--line); }
+  .rank { font-family: "Oswald", sans-serif; font-weight: 700; font-size: 20px; width: 30px; text-align: center; color: var(--text-dim); }
+  .record-item.win .rank { color: var(--gold); }
+  .athlete-name { flex: 1; text-decoration: none; color: var(--text); font-weight: 500; }
+  .athlete-name:hover { color: var(--accent); }
+  .athlete-pref { font-size: 13px; color: var(--text-dim); }
+</style>

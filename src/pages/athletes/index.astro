@@ -1,0 +1,31 @@
+---
+import Base from "../../layouts/Base.astro";
+import { withBase } from "../../lib/url.js";
+import athletes from "../../data/athletes.json";
+---
+<Base title="選手一覧">
+  <h1 class="page-title">選手一覧</h1>
+  <ul class="athlete-list">
+    {athletes.map((a) => (
+      <li>
+        <a href={withBase(`/athletes/${a.id}/`)}>
+          <span class="athlete-name">{a.name}</span>
+          <span class="athlete-pref">{a.prefecture} ／ {a.club}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>
+
+<style>
+  .page-title { font-size: 24px; margin: 0 0 24px; }
+  .athlete-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+  .athlete-list li { border-bottom: 1px solid var(--line); }
+  .athlete-list a {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 14px 4px; text-decoration: none; color: var(--text);
+  }
+  .athlete-list a:hover { background: var(--surface); }
+  .athlete-name { font-weight: 500; }
+  .athlete-pref { font-size: 13px; color: var(--text-dim); }
+</style>

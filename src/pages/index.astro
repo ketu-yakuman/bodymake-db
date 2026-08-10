@@ -1,0 +1,121 @@
+---
+import Base from "../layouts/Base.astro";
+import { withBase } from "../lib/url.js";
+import athletes from "../data/athletes.json";
+import competitions from "../data/competitions.json";
+import results from "../data/results.json";
+
+const recentComps = [...competitions].sort((a, b) => (a.date < b.date ? 1 : -1));
+---
+<Base title="トップ">
+  <section class="hero">
+    <p class="eyebrow">JBBF / FWJ 大会成績アーカイブ（試作）</p>
+    <h1>選手ごとの戦績を、大会をまたいで追う。</h1>
+    <p class="lede">
+      {athletes.length}名の選手 / {competitions.length}大会 / {results.length}件の結果を格納したサンプルデータです。
+      選手ページ・大会ページはJSONデータからビルド時に自動生成されています。
+    </p>
+  </section>
+
+  <section class="block">
+    <h2>大会一覧</h2>
+    <ul class="comp-list">
+      {recentComps.map((c) => (
+        <li>
+          <a href={withBase(`/competitions/${c.id}/`)}>
+            <span class="comp-date">{c.date}</span>
+            <span class="comp-name">{c.name}</span>
+            <span class="comp-fed">{c.federationId.toUpperCase()}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="block">
+    <h2>選手一覧</h2>
+    <ul class="athlete-list">
+      {athletes.map((a) => (
+        <li>
+          <a href={withBase(`/athletes/${a.id}/`)}>
+            <span class="athlete-name">{a.name}</span>
+            <span class="athlete-pref">{a.prefecture}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .hero {
+    padding-bottom: 36px;
+    margin-bottom: 36px;
+    border-bottom: 1px solid var(--line);
+  }
+  .eyebrow {
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 0.14em;
+    font-size: 12px;
+    color: var(--accent);
+    margin: 0 0 14px;
+  }
+  h1 {
+    font-size: 32px;
+    line-height: 1.4;
+    margin: 0 0 16px;
+    font-weight: 700;
+  }
+  .lede { color: var(--text-dim); line-height: 1.8; max-width: 60ch; margin: 0; }
+
+  .block { margin-bottom: 40px; }
+  .block h2 {
+    font-family: "Oswald", sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin: 0 0 14px;
+  }
+
+  .comp-list, .athlete-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid var(--line);
+  }
+  .comp-list li, .athlete-list li {
+    border-bottom: 1px solid var(--line);
+  }
+  .comp-list a, .athlete-list a {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 14px 4px;
+    text-decoration: none;
+    color: var(--text);
+    transition: background 0.15s;
+  }
+  .comp-list a:hover, .athlete-list a:hover { background: var(--surface); }
+
+  .comp-date {
+    font-family: "Oswald", sans-serif;
+    color: var(--text-dim);
+    font-size: 13px;
+    width: 96px;
+    flex-shrink: 0;
+  }
+  .comp-name { flex: 1; font-weight: 500; }
+  .comp-fed {
+    font-family: "Oswald", sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    padding: 2px 8px;
+    border-radius: 2px;
+  }
+
+  .athlete-name { font-weight: 500; flex: 1; }
+  .athlete-pref { font-size: 13px; color: var(--text-dim); }
+</style>

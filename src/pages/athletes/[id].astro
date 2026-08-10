@@ -1,0 +1,99 @@
+---
+import Base from "../../layouts/Base.astro";
+import { withBase } from "../../lib/url.js";
+import athletes from "../../data/athletes.json";
+import competitions from "../../data/competitions.json";
+import results from "../../data/results.json";
+
+export function getStaticPaths() {
+  return athletes.map((a) => ({
+    params: { id: a.id },
+    props: { athlete: a },
+  }));
+}
+
+const { athlete } = Astro.props;
+
+const record = results
+  .filter((r) => r.athleteId === athlete.id)
+  .map((r) => ({
+    ...r,
+    competition: competitions.find((c) => c.id === r.competitionId),
+  }))
+  .sort((a, b) => (a.competition.date < b.competition.date ? 1 : -1));
+
+const wins = record.filter((r) => r.rank === 1).length;
+---
+<Base title={athlete.name}>
+  <div class="athlete-header">
+    <div>
+      <p class="eyebrow">{athlete.prefecture} ／ {athlete.club}</p>
+      <h1>{athlete.name}</h1>
+      <p class="meta">初出場 {athlete.firstSeen}年 ／ 優勝 {wins}回 ／ 出場 {record.length}大会</p>
+    </div>
+  </div>
+
+  <h2 class="section-title">出場歴</h2>
+  <ul class="record-list">
+    {record.map((r) => (
+      <li class:list={["record-item", { win: r.rank === 1 }]}>
+        <span class="rank">{r.rank}</span>
+        <div class="record-body">
+          <a class="comp-name" href={withBase(`/competitions/${r.competition.id}/`)}>{r.competition.name}</a>
+          <span class="comp-cat">{r.category}</span>
+        </div>
+        <span class="comp-date">{r.competition.date}</span>
+      </li>
+    ))}
+  </ul>
+</Base>
+
+<style>
+  .eyebrow {
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 0.1em;
+    font-size: 12px;
+    color: var(--text-dim);
+    margin: 0 0 8px;
+  }
+  h1 { font-size: 30px; margin: 0 0 10px; }
+  .meta { color: var(--text-dim); font-size: 14px; margin: 0; }
+
+  .athlete-header {
+    padding-bottom: 28px;
+    margin-bottom: 28px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .section-title {
+    font-family: "Oswald", sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin: 0 0 14px;
+  }
+
+  .record-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+  .record-item {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    padding: 14px 4px;
+    border-bottom: 1px solid var(--line);
+  }
+  .rank {
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    width: 34px;
+    text-align: center;
+    color: var(--text-dim);
+  }
+  .record-item.win .rank { color: var(--gold); }
+  .record-body { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .comp-name { text-decoration: none; color: var(--text); font-weight: 500; }
+  .comp-name:hover { color: var(--accent); }
+  .comp-cat { font-size: 12px; color: var(--text-dim); }
+  .comp-date { font-family: "Oswald", sans-serif; font-size: 13px; color: var(--text-dim); }
+</style>
