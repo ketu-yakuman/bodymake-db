@@ -7312,5 +7312,7640 @@
       "final": null,
       "total": null
     }
+  },
+  {
+    "id": "r00342",
+    "athleteId": "a0280",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 1,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "final": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "total": 10
+    }
+  },
+  {
+    "id": "r00343",
+    "athleteId": "a0238",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 2,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "subtotal": 11,
+        "rank": 2
+      },
+      "final": {
+        "scores": [
+          3,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "subtotal": 10,
+        "rank": 2
+      },
+      "total": 21
+    }
+  },
+  {
+    "id": "r00344",
+    "athleteId": "a0003",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 3,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          2,
+          2,
+          3,
+          4,
+          4,
+          3,
+          4
+        ],
+        "subtotal": 16,
+        "rank": 3
+      },
+      "final": {
+        "scores": [
+          2,
+          3,
+          3,
+          4,
+          4,
+          3,
+          4
+        ],
+        "subtotal": 17,
+        "rank": 3
+      },
+      "total": 33
+    }
+  },
+  {
+    "id": "r00345",
+    "athleteId": "a0009",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 4,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          4,
+          4,
+          4,
+          3,
+          3,
+          4,
+          3
+        ],
+        "subtotal": 18,
+        "rank": 4
+      },
+      "final": {
+        "scores": [
+          4,
+          4,
+          4,
+          3,
+          3,
+          4,
+          3
+        ],
+        "subtotal": 18,
+        "rank": 4
+      },
+      "total": 36
+    }
+  },
+  {
+    "id": "r00346",
+    "athleteId": "a0006",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 5,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "subtotal": 25,
+        "rank": 5
+      },
+      "final": {
+        "scores": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "subtotal": 25,
+        "rank": 5
+      },
+      "total": 50
+    }
+  },
+  {
+    "id": "r00347",
+    "athleteId": "a0281",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 7,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          7,
+          6,
+          7,
+          7,
+          6,
+          7,
+          7
+        ],
+        "subtotal": 34,
+        "rank": 7
+      },
+      "final": {
+        "scores": [
+          7,
+          6,
+          7,
+          7,
+          6,
+          7,
+          7
+        ],
+        "subtotal": 34,
+        "rank": 7
+      },
+      "total": 68
+    }
+  },
+  {
+    "id": "r00348",
+    "athleteId": "a0282",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 8,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "prelim": {
+        "scores": [
+          8,
+          9,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "subtotal": 40,
+        "rank": 8
+      },
+      "final": {
+        "scores": [
+          8,
+          9,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "subtotal": 40,
+        "rank": 8
+      },
+      "total": 80
+    }
+  },
+  {
+    "id": "r00349",
+    "athleteId": "a0024",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 9,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          9,
+          8,
+          9,
+          9,
+          9,
+          9,
+          9
+        ],
+        "subtotal": 45,
+        "rank": 9
+      },
+      "final": {
+        "scores": [
+          9,
+          8,
+          9,
+          9,
+          9,
+          9,
+          9
+        ],
+        "subtotal": 45,
+        "rank": 9
+      },
+      "total": 90
+    }
+  },
+  {
+    "id": "r00350",
+    "athleteId": "a0013",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 10,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "subtotal": 50,
+        "rank": 10
+      },
+      "final": {
+        "scores": [
+          10,
+          10,
+          10,
+          10,
+          11,
+          10,
+          10
+        ],
+        "subtotal": 50,
+        "rank": 10
+      },
+      "total": 100
+    }
+  },
+  {
+    "id": "r00351",
+    "athleteId": "a0028",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 11,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "prelim": {
+        "scores": [
+          12,
+          12,
+          12,
+          11,
+          11,
+          11,
+          12
+        ],
+        "subtotal": 58,
+        "rank": 12
+      },
+      "final": {
+        "scores": [
+          12,
+          12,
+          11,
+          11,
+          10,
+          11,
+          11
+        ],
+        "subtotal": 56,
+        "rank": 11
+      },
+      "total": 114
+    }
+  },
+  {
+    "id": "r00352",
+    "athleteId": "a0240",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": 12,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "prelim": {
+        "scores": [
+          11,
+          11,
+          11,
+          12,
+          12,
+          12,
+          11
+        ],
+        "subtotal": 57,
+        "rank": 11
+      },
+      "final": {
+        "scores": [
+          11,
+          11,
+          12,
+          12,
+          12,
+          12,
+          12
+        ],
+        "subtotal": 59,
+        "rank": 12
+      },
+      "total": 116
+    }
+  },
+  {
+    "id": "r00353",
+    "athleteId": "a0022",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00354",
+    "athleteId": "a0241",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00355",
+    "athleteId": "a0011",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "secondPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00356",
+    "athleteId": "a0026",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00357",
+    "athleteId": "a0035",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00358",
+    "athleteId": "a0016",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00359",
+    "athleteId": "a0248",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00360",
+    "athleteId": "a0012",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00361",
+    "athleteId": "a0251",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00362",
+    "athleteId": "a0030",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00363",
+    "athleteId": "a0033",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00364",
+    "athleteId": "a0283",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00365",
+    "athleteId": "a0284",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00366",
+    "athleteId": "a0252",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00367",
+    "athleteId": "a0037",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00368",
+    "athleteId": "a0036",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00369",
+    "athleteId": "a0027",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00370",
+    "athleteId": "a0245",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00371",
+    "athleteId": "a0032",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00372",
+    "athleteId": "a0031",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00373",
+    "athleteId": "a0285",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00374",
+    "athleteId": "a0025",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00375",
+    "athleteId": "a0286",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00376",
+    "athleteId": "a0253",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00377",
+    "athleteId": "a0287",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00378",
+    "athleteId": "a0288",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00379",
+    "athleteId": "a0289",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00380",
+    "athleteId": "a0290",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00381",
+    "athleteId": "a0291",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00382",
+    "athleteId": "a0043",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 1,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          2
+        ],
+        "subtotal": 7,
+        "rank": 1
+      },
+      "final": {
+        "scores": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        "subtotal": 6,
+        "rank": 1
+      },
+      "total": 13
+    }
+  },
+  {
+    "id": "r00383",
+    "athleteId": "a0045",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 2,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          1,
+          2,
+          2,
+          2,
+          1,
+          2,
+          1
+        ],
+        "subtotal": 8,
+        "rank": 2
+      },
+      "final": {
+        "scores": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        "subtotal": 9,
+        "rank": 2
+      },
+      "total": 17
+    }
+  },
+  {
+    "id": "r00384",
+    "athleteId": "a0051",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 3,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "subtotal": 15,
+        "rank": 3
+      },
+      "final": {
+        "scores": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "subtotal": 15,
+        "rank": 3
+      },
+      "total": 30
+    }
+  },
+  {
+    "id": "r00385",
+    "athleteId": "a0264",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 4,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          5
+        ],
+        "subtotal": 22,
+        "rank": 4
+      },
+      "final": {
+        "scores": [
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          5
+        ],
+        "subtotal": 22,
+        "rank": 4
+      },
+      "total": 44
+    }
+  },
+  {
+    "id": "r00386",
+    "athleteId": "a0261",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 5,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          6,
+          5,
+          5,
+          5,
+          6,
+          7,
+          4
+        ],
+        "subtotal": 27,
+        "rank": 5
+      },
+      "final": {
+        "scores": [
+          6,
+          5,
+          5,
+          5,
+          6,
+          7,
+          4
+        ],
+        "subtotal": 27,
+        "rank": 5
+      },
+      "total": 54
+    }
+  },
+  {
+    "id": "r00387",
+    "athleteId": "a0054",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 6,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          8,
+          7,
+          7,
+          6,
+          4,
+          6,
+          6
+        ],
+        "subtotal": 32,
+        "rank": 6
+      },
+      "final": {
+        "scores": [
+          8,
+          8,
+          7,
+          6,
+          4,
+          6,
+          6
+        ],
+        "subtotal": 33,
+        "rank": 7
+      },
+      "total": 65
+    }
+  },
+  {
+    "id": "r00388",
+    "athleteId": "a0046",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 7,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          4,
+          8,
+          6,
+          8,
+          8,
+          5,
+          8
+        ],
+        "subtotal": 35,
+        "rank": 7
+      },
+      "final": {
+        "scores": [
+          4,
+          7,
+          6,
+          8,
+          8,
+          5,
+          7
+        ],
+        "subtotal": 33,
+        "rank": 6
+      },
+      "total": 68
+    }
+  },
+  {
+    "id": "r00389",
+    "athleteId": "a0262",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 8,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          7,
+          6,
+          8,
+          7,
+          7,
+          8,
+          7
+        ],
+        "subtotal": 36,
+        "rank": 8
+      },
+      "final": {
+        "scores": [
+          7,
+          6,
+          8,
+          7,
+          7,
+          8,
+          8
+        ],
+        "subtotal": 37,
+        "rank": 8
+      },
+      "total": 73
+    }
+  },
+  {
+    "id": "r00390",
+    "athleteId": "a0052",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 9,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9
+        ],
+        "subtotal": 45,
+        "rank": 9
+      },
+      "final": {
+        "scores": [
+          9,
+          9,
+          9,
+          9,
+          10,
+          9,
+          9
+        ],
+        "subtotal": 45,
+        "rank": 9
+      },
+      "total": 90
+    }
+  },
+  {
+    "id": "r00391",
+    "athleteId": "a0049",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 10,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "prelim": {
+        "scores": [
+          10,
+          11,
+          10,
+          10,
+          10,
+          10,
+          11
+        ],
+        "subtotal": 51,
+        "rank": 10
+      },
+      "final": {
+        "scores": [
+          10,
+          11,
+          10,
+          10,
+          11,
+          10,
+          11
+        ],
+        "subtotal": 52,
+        "rank": 10
+      },
+      "total": 103
+    }
+  },
+  {
+    "id": "r00392",
+    "athleteId": "a0292",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 11,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "prelim": {
+        "scores": [
+          11,
+          10,
+          11,
+          11,
+          11,
+          11,
+          10
+        ],
+        "subtotal": 54,
+        "rank": 11
+      },
+      "final": {
+        "scores": [
+          11,
+          10,
+          11,
+          11,
+          9,
+          11,
+          10
+        ],
+        "subtotal": 53,
+        "rank": 11
+      },
+      "total": 107
+    }
+  },
+  {
+    "id": "r00393",
+    "athleteId": "a0263",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": 12,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "prelim": {
+        "scores": [
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12
+        ],
+        "subtotal": 60,
+        "rank": 12
+      },
+      "final": {
+        "scores": [
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12
+        ],
+        "subtotal": 60,
+        "rank": 12
+      },
+      "total": 120
+    }
+  },
+  {
+    "id": "r00394",
+    "athleteId": "a0293",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00395",
+    "athleteId": "a0270",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00396",
+    "athleteId": "a0055",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00397",
+    "athleteId": "a0072",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00398",
+    "athleteId": "a0267",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00399",
+    "athleteId": "a0294",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00400",
+    "athleteId": "a0265",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00401",
+    "athleteId": "a0295",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00402",
+    "athleteId": "a0296",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00403",
+    "athleteId": "a0297",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00404",
+    "athleteId": "a0060",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00405",
+    "athleteId": "a0298",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00406",
+    "athleteId": "a0069",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00407",
+    "athleteId": "a0268",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00408",
+    "athleteId": "a0275",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00409",
+    "athleteId": "a0299",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00410",
+    "athleteId": "a0300",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00411",
+    "athleteId": "a0301",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00412",
+    "athleteId": "a0071",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00413",
+    "athleteId": "a0273",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00414",
+    "athleteId": "a0077",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00415",
+    "athleteId": "a0302",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00416",
+    "athleteId": "a0303",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00417",
+    "athleteId": "a0304",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00418",
+    "athleteId": "a0266",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00419",
+    "athleteId": "a0082",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00420",
+    "athleteId": "a0305",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00421",
+    "athleteId": "a0084",
+    "competitionId": "jbbf-nihon-2023",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00422",
+    "athleteId": "a0280",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 1,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "final": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "total": 10
+    }
+  },
+  {
+    "id": "r00423",
+    "athleteId": "a0306",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 2,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3
+        ],
+        "subtotal": 11,
+        "rank": 2
+      },
+      "final": {
+        "scores": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3
+        ],
+        "subtotal": 11,
+        "rank": 2
+      },
+      "total": 22
+    }
+  },
+  {
+    "id": "r00424",
+    "athleteId": "a0238",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 3,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          2,
+          2
+        ],
+        "subtotal": 14,
+        "rank": 3
+      },
+      "final": {
+        "scores": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          2,
+          2
+        ],
+        "subtotal": 14,
+        "rank": 3
+      },
+      "total": 28
+    }
+  },
+  {
+    "id": "r00425",
+    "athleteId": "a0010",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 4,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          5
+        ],
+        "subtotal": 20,
+        "rank": 4
+      },
+      "final": {
+        "scores": [
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          5
+        ],
+        "subtotal": 20,
+        "rank": 4
+      },
+      "total": 40
+    }
+  },
+  {
+    "id": "r00426",
+    "athleteId": "a0007",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 5,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          5,
+          5,
+          5,
+          5,
+          6,
+          5,
+          4
+        ],
+        "subtotal": 25,
+        "rank": 5
+      },
+      "final": {
+        "scores": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          4
+        ],
+        "subtotal": 25,
+        "rank": 5
+      },
+      "total": 50
+    }
+  },
+  {
+    "id": "r00427",
+    "athleteId": "a0281",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 6,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          6,
+          6,
+          6,
+          6,
+          5,
+          6,
+          6
+        ],
+        "subtotal": 30,
+        "rank": 6
+      },
+      "final": {
+        "scores": [
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6
+        ],
+        "subtotal": 30,
+        "rank": 6
+      },
+      "total": 60
+    }
+  },
+  {
+    "id": "r00428",
+    "athleteId": "a0024",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 7,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          7,
+          7,
+          7,
+          8,
+          9,
+          8,
+          7
+        ],
+        "subtotal": 37,
+        "rank": 7
+      },
+      "final": {
+        "scores": [
+          7,
+          7,
+          7,
+          7,
+          9,
+          8,
+          7
+        ],
+        "subtotal": 36,
+        "rank": 7
+      },
+      "total": 73
+    }
+  },
+  {
+    "id": "r00429",
+    "athleteId": "a0240",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 8,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          8,
+          8,
+          8,
+          7,
+          8,
+          9,
+          8
+        ],
+        "subtotal": 40,
+        "rank": 8
+      },
+      "final": {
+        "scores": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          9,
+          8
+        ],
+        "subtotal": 40,
+        "rank": 8
+      },
+      "total": 80
+    }
+  },
+  {
+    "id": "r00430",
+    "athleteId": "a0009",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 9,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          9,
+          9,
+          9,
+          11,
+          7,
+          7,
+          9
+        ],
+        "subtotal": 43,
+        "rank": 9
+      },
+      "final": {
+        "scores": [
+          9,
+          9,
+          9,
+          10,
+          7,
+          7,
+          9
+        ],
+        "subtotal": 43,
+        "rank": 9
+      },
+      "total": 86
+    }
+  },
+  {
+    "id": "r00431",
+    "athleteId": "a0013",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 10,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          11,
+          11,
+          11,
+          9,
+          10,
+          10,
+          10
+        ],
+        "subtotal": 52,
+        "rank": 10
+      },
+      "final": {
+        "scores": [
+          11,
+          11,
+          11,
+          9,
+          10,
+          10,
+          10
+        ],
+        "subtotal": 52,
+        "rank": 10
+      },
+      "total": 104
+    }
+  },
+  {
+    "id": "r00432",
+    "athleteId": "a0006",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 11,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "prelim": {
+        "scores": [
+          10,
+          10,
+          12,
+          10,
+          12,
+          11,
+          11
+        ],
+        "subtotal": 54,
+        "rank": 11
+      },
+      "final": {
+        "scores": [
+          10,
+          10,
+          12,
+          11,
+          11,
+          11,
+          12
+        ],
+        "subtotal": 55,
+        "rank": 11
+      },
+      "total": 109
+    }
+  },
+  {
+    "id": "r00433",
+    "athleteId": "a0022",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": 12,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "prelim": {
+        "scores": [
+          12,
+          12,
+          10,
+          12,
+          11,
+          12,
+          12
+        ],
+        "subtotal": 59,
+        "rank": 12
+      },
+      "final": {
+        "scores": [
+          12,
+          12,
+          10,
+          12,
+          12,
+          12,
+          11
+        ],
+        "subtotal": 59,
+        "rank": 12
+      },
+      "total": 118
+    }
+  },
+  {
+    "id": "r00434",
+    "athleteId": "a0282",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00435",
+    "athleteId": "a0307",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00436",
+    "athleteId": "a0025",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00437",
+    "athleteId": "a0241",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00438",
+    "athleteId": "a0020",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00439",
+    "athleteId": "a0243",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00440",
+    "athleteId": "a0036",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00441",
+    "athleteId": "a0308",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00442",
+    "athleteId": "a0309",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00443",
+    "athleteId": "a0291",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00444",
+    "athleteId": "a0248",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00445",
+    "athleteId": "a0251",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00446",
+    "athleteId": "a0310",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00447",
+    "athleteId": "a0283",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00448",
+    "athleteId": "a0311",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00449",
+    "athleteId": "a0312",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00450",
+    "athleteId": "a0252",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00451",
+    "athleteId": "a0313",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00452",
+    "athleteId": "a0259",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00453",
+    "athleteId": "a0314",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00454",
+    "athleteId": "a0016",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00455",
+    "athleteId": "a0315",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00456",
+    "athleteId": "a0316",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00457",
+    "athleteId": "a0289",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00458",
+    "athleteId": "a0245",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00459",
+    "athleteId": "a0031",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00460",
+    "athleteId": "a0253",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00461",
+    "athleteId": "a0317",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00462",
+    "athleteId": "a0318",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00463",
+    "athleteId": "a0319",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00464",
+    "athleteId": "a0045",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 1,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "final": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "total": 10
+    }
+  },
+  {
+    "id": "r00465",
+    "athleteId": "a0051",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 2,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "subtotal": 10,
+        "rank": 2
+      },
+      "final": {
+        "scores": [
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2
+        ],
+        "subtotal": 10,
+        "rank": 2
+      },
+      "total": 20
+    }
+  },
+  {
+    "id": "r00466",
+    "athleteId": "a0261",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 3,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          4,
+          3,
+          3,
+          5,
+          3,
+          4,
+          3
+        ],
+        "subtotal": 17,
+        "rank": 3
+      },
+      "final": {
+        "scores": [
+          5,
+          3,
+          4,
+          5,
+          2,
+          3,
+          3
+        ],
+        "subtotal": 18,
+        "rank": 3
+      },
+      "total": 35
+    }
+  },
+  {
+    "id": "r00467",
+    "athleteId": "a0043",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 4,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          3,
+          6,
+          4,
+          3,
+          5,
+          3,
+          5
+        ],
+        "subtotal": 20,
+        "rank": 4
+      },
+      "final": {
+        "scores": [
+          4,
+          6,
+          3,
+          3,
+          5,
+          4,
+          4
+        ],
+        "subtotal": 20,
+        "rank": 4
+      },
+      "total": 40
+    }
+  },
+  {
+    "id": "r00468",
+    "athleteId": "a0264",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 5,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          6,
+          4,
+          5,
+          4,
+          4,
+          6,
+          7
+        ],
+        "subtotal": 25,
+        "rank": 5
+      },
+      "final": {
+        "scores": [
+          3,
+          4,
+          5,
+          4,
+          4,
+          6,
+          7
+        ],
+        "subtotal": 23,
+        "rank": 5
+      },
+      "total": 48
+    }
+  },
+  {
+    "id": "r00469",
+    "athleteId": "a0046",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 6,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          5,
+          5,
+          6,
+          6,
+          7,
+          5,
+          4
+        ],
+        "subtotal": 27,
+        "rank": 6
+      },
+      "final": {
+        "scores": [
+          6,
+          5,
+          6,
+          6,
+          7,
+          5,
+          5
+        ],
+        "subtotal": 28,
+        "rank": 6
+      },
+      "total": 55
+    }
+  },
+  {
+    "id": "r00470",
+    "athleteId": "a0053",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 7,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          8,
+          7,
+          7,
+          7,
+          6,
+          8,
+          6
+        ],
+        "subtotal": 35,
+        "rank": 7
+      },
+      "final": {
+        "scores": [
+          9,
+          7,
+          7,
+          7,
+          6,
+          7,
+          6
+        ],
+        "subtotal": 34,
+        "rank": 7
+      },
+      "total": 69
+    }
+  },
+  {
+    "id": "r00471",
+    "athleteId": "a0262",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 8,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          7,
+          8,
+          9,
+          8,
+          8,
+          10,
+          10
+        ],
+        "subtotal": 43,
+        "rank": 8
+      },
+      "final": {
+        "scores": [
+          7,
+          8,
+          9,
+          8,
+          8,
+          11,
+          9
+        ],
+        "subtotal": 42,
+        "rank": 8
+      },
+      "total": 85
+    }
+  },
+  {
+    "id": "r00472",
+    "athleteId": "a0052",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 9,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          10,
+          9,
+          8,
+          9,
+          9,
+          7,
+          8
+        ],
+        "subtotal": 43,
+        "rank": 9
+      },
+      "final": {
+        "scores": [
+          8,
+          9,
+          8,
+          9,
+          9,
+          9,
+          8
+        ],
+        "subtotal": 43,
+        "rank": 9
+      },
+      "total": 86
+    }
+  },
+  {
+    "id": "r00473",
+    "athleteId": "a0054",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 10,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          12,
+          10,
+          10,
+          12,
+          10,
+          9,
+          9
+        ],
+        "subtotal": 51,
+        "rank": 10
+      },
+      "final": {
+        "scores": [
+          12,
+          10,
+          10,
+          11,
+          10,
+          8,
+          11
+        ],
+        "subtotal": 52,
+        "rank": 10
+      },
+      "total": 103
+    }
+  },
+  {
+    "id": "r00474",
+    "athleteId": "a0293",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 11,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          9,
+          11,
+          11,
+          11,
+          11,
+          11,
+          12
+        ],
+        "subtotal": 55,
+        "rank": 11
+      },
+      "final": {
+        "scores": [
+          10,
+          11,
+          11,
+          12,
+          11,
+          10,
+          12
+        ],
+        "subtotal": 55,
+        "rank": 11
+      },
+      "total": 110
+    }
+  },
+  {
+    "id": "r00475",
+    "athleteId": "a0320",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": 12,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          11,
+          12,
+          12,
+          10,
+          12,
+          12,
+          11
+        ],
+        "subtotal": 58,
+        "rank": 12
+      },
+      "final": {
+        "scores": [
+          11,
+          12,
+          12,
+          10,
+          12,
+          12,
+          10
+        ],
+        "subtotal": 57,
+        "rank": 12
+      },
+      "total": 115
+    }
+  },
+  {
+    "id": "r00476",
+    "athleteId": "a0267",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00477",
+    "athleteId": "a0265",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00478",
+    "athleteId": "a0272",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00479",
+    "athleteId": "a0077",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00480",
+    "athleteId": "a0321",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00481",
+    "athleteId": "a0322",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00482",
+    "athleteId": "a0298",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00483",
+    "athleteId": "a0082",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00484",
+    "athleteId": "a0072",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00485",
+    "athleteId": "a0323",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00486",
+    "athleteId": "a0268",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00487",
+    "athleteId": "a0275",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00488",
+    "athleteId": "a0324",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00489",
+    "athleteId": "a0325",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00490",
+    "athleteId": "a0326",
+    "competitionId": "jbbf-nihon-2022",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00491",
+    "athleteId": "a0280",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 1,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          1,
+          1,
+          2,
+          1,
+          2,
+          1,
+          1
+        ],
+        "subtotal": 6,
+        "rank": 1
+      },
+      "final": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "total": 11
+    }
+  },
+  {
+    "id": "r00492",
+    "athleteId": "a0238",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 2,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          3,
+          3,
+          1,
+          2,
+          1,
+          2,
+          2
+        ],
+        "subtotal": 10,
+        "rank": 2
+      },
+      "final": {
+        "scores": [
+          3,
+          3,
+          2,
+          2,
+          1,
+          2,
+          2
+        ],
+        "subtotal": 11,
+        "rank": 2
+      },
+      "total": 21
+    }
+  },
+  {
+    "id": "r00493",
+    "athleteId": "a0007",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 3,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          4,
+          2,
+          3,
+          4,
+          3,
+          3,
+          4
+        ],
+        "subtotal": 17,
+        "rank": 3
+      },
+      "final": {
+        "scores": [
+          4,
+          2,
+          3,
+          4,
+          3,
+          3,
+          4
+        ],
+        "subtotal": 17,
+        "rank": 3
+      },
+      "total": 34
+    }
+  },
+  {
+    "id": "r00494",
+    "athleteId": "a0010",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 4,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          2,
+          4,
+          4,
+          3,
+          4,
+          4,
+          3
+        ],
+        "subtotal": 18,
+        "rank": 4
+      },
+      "final": {
+        "scores": [
+          2,
+          4,
+          4,
+          3,
+          4,
+          4,
+          3
+        ],
+        "subtotal": 18,
+        "rank": 4
+      },
+      "total": 36
+    }
+  },
+  {
+    "id": "r00495",
+    "athleteId": "a0239",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 5,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          5,
+          6,
+          6,
+          5,
+          7,
+          6,
+          6
+        ],
+        "subtotal": 29,
+        "rank": 5
+      },
+      "final": {
+        "scores": [
+          5,
+          6,
+          6,
+          5,
+          7,
+          6,
+          6
+        ],
+        "subtotal": 29,
+        "rank": 5
+      },
+      "total": 58
+    }
+  },
+  {
+    "id": "r00496",
+    "athleteId": "a0306",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 6,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          6,
+          5,
+          7,
+          7,
+          5,
+          7,
+          5
+        ],
+        "subtotal": 30,
+        "rank": 6
+      },
+      "final": {
+        "scores": [
+          6,
+          5,
+          7,
+          7,
+          5,
+          7,
+          5
+        ],
+        "subtotal": 30,
+        "rank": 6
+      },
+      "total": 60
+    }
+  },
+  {
+    "id": "r00497",
+    "athleteId": "a0022",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 7,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          8,
+          8,
+          5,
+          6,
+          8,
+          5,
+          8
+        ],
+        "subtotal": 35,
+        "rank": 7
+      },
+      "final": {
+        "scores": [
+          8,
+          8,
+          5,
+          6,
+          8,
+          5,
+          8
+        ],
+        "subtotal": 35,
+        "rank": 7
+      },
+      "total": 70
+    }
+  },
+  {
+    "id": "r00498",
+    "athleteId": "a0327",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 8,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          7,
+          7,
+          8,
+          8,
+          6,
+          8,
+          7
+        ],
+        "subtotal": 37,
+        "rank": 8
+      },
+      "final": {
+        "scores": [
+          7,
+          7,
+          8,
+          8,
+          6,
+          8,
+          7
+        ],
+        "subtotal": 37,
+        "rank": 8
+      },
+      "total": 74
+    }
+  },
+  {
+    "id": "r00499",
+    "athleteId": "a0024",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 9,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          10,
+          9,
+          9,
+          12,
+          9,
+          10,
+          9
+        ],
+        "subtotal": 47,
+        "rank": 9
+      },
+      "final": {
+        "scores": [
+          10,
+          9,
+          9,
+          12,
+          9,
+          10,
+          9
+        ],
+        "subtotal": 47,
+        "rank": 9
+      },
+      "total": 94
+    }
+  },
+  {
+    "id": "r00500",
+    "athleteId": "a0025",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 10,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          12,
+          11,
+          10,
+          11,
+          10,
+          11,
+          10
+        ],
+        "subtotal": 53,
+        "rank": 10
+      },
+      "final": {
+        "scores": [
+          11,
+          11,
+          10,
+          11,
+          10,
+          11,
+          10
+        ],
+        "subtotal": 53,
+        "rank": 10
+      },
+      "total": 106
+    }
+  },
+  {
+    "id": "r00501",
+    "athleteId": "a0241",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 11,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": [
+          11,
+          10,
+          12,
+          10,
+          11,
+          9,
+          12
+        ],
+        "subtotal": 54,
+        "rank": 11
+      },
+      "final": {
+        "scores": [
+          12,
+          10,
+          12,
+          10,
+          11,
+          9,
+          12
+        ],
+        "subtotal": 55,
+        "rank": 12
+      },
+      "total": 109
+    }
+  },
+  {
+    "id": "r00502",
+    "athleteId": "a0013",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": 12,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "prelim": {
+        "scores": [
+          9,
+          12,
+          11,
+          9,
+          12,
+          12,
+          11
+        ],
+        "subtotal": 55,
+        "rank": 12
+      },
+      "final": {
+        "scores": [
+          9,
+          12,
+          11,
+          9,
+          12,
+          12,
+          11
+        ],
+        "subtotal": 55,
+        "rank": 11
+      },
+      "total": 110
+    }
+  },
+  {
+    "id": "r00503",
+    "athleteId": "a0037",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00504",
+    "athleteId": "a0004",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00505",
+    "athleteId": "a0328",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00506",
+    "athleteId": "a0035",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00507",
+    "athleteId": "a0309",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00508",
+    "athleteId": "a0248",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00509",
+    "athleteId": "a0026",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00510",
+    "athleteId": "a0283",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00511",
+    "athleteId": "a0036",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00512",
+    "athleteId": "a0243",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00513",
+    "athleteId": "a0284",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00514",
+    "athleteId": "a0291",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00515",
+    "athleteId": "a0316",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00516",
+    "athleteId": "a0028",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00517",
+    "athleteId": "a0310",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00518",
+    "athleteId": "a0252",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00519",
+    "athleteId": "a0032",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00520",
+    "athleteId": "a0031",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00521",
+    "athleteId": "a0329",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00522",
+    "athleteId": "a0330",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00523",
+    "athleteId": "a0331",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00524",
+    "athleteId": "a0332",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00525",
+    "athleteId": "a0333",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00526",
+    "athleteId": "a0334",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00527",
+    "athleteId": "a0335",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00528",
+    "athleteId": "a0336",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00529",
+    "athleteId": "a0337",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "男子ボディビル",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00530",
+    "athleteId": "a0045",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 1,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "final": {
+        "scores": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "subtotal": 5,
+        "rank": 1
+      },
+      "total": 10
+    }
+  },
+  {
+    "id": "r00531",
+    "athleteId": "a0051",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 2,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          2,
+          2,
+          3,
+          2,
+          2,
+          3,
+          2
+        ],
+        "subtotal": 11,
+        "rank": 2
+      },
+      "final": {
+        "scores": [
+          2,
+          3,
+          3,
+          2,
+          2,
+          3,
+          2
+        ],
+        "subtotal": 12,
+        "rank": 2
+      },
+      "total": 23
+    }
+  },
+  {
+    "id": "r00532",
+    "athleteId": "a0338",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 3,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          4,
+          3,
+          2,
+          3,
+          3,
+          2,
+          3
+        ],
+        "subtotal": 14,
+        "rank": 3
+      },
+      "final": {
+        "scores": [
+          3,
+          2,
+          2,
+          3,
+          3,
+          2,
+          3
+        ],
+        "subtotal": 13,
+        "rank": 3
+      },
+      "total": 27
+    }
+  },
+  {
+    "id": "r00533",
+    "athleteId": "a0046",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 4,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          3,
+          4,
+          4,
+          4,
+          7,
+          6,
+          7
+        ],
+        "subtotal": 25,
+        "rank": 4
+      },
+      "final": {
+        "scores": [
+          4,
+          4,
+          4,
+          4,
+          8,
+          6,
+          7
+        ],
+        "subtotal": 25,
+        "rank": 4
+      },
+      "total": 50
+    }
+  },
+  {
+    "id": "r00534",
+    "athleteId": "a0053",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 5,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          7,
+          5,
+          6,
+          5,
+          4,
+          4,
+          5
+        ],
+        "subtotal": 25,
+        "rank": 5
+      },
+      "final": {
+        "scores": [
+          6,
+          5,
+          6,
+          5,
+          5,
+          4,
+          5
+        ],
+        "subtotal": 26,
+        "rank": 5
+      },
+      "total": 51
+    }
+  },
+  {
+    "id": "r00535",
+    "athleteId": "a0052",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 6,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          5,
+          6,
+          5,
+          6,
+          5,
+          5,
+          6
+        ],
+        "subtotal": 27,
+        "rank": 6
+      },
+      "final": {
+        "scores": [
+          5,
+          7,
+          5,
+          6,
+          4,
+          5,
+          6
+        ],
+        "subtotal": 27,
+        "rank": 6
+      },
+      "total": 54
+    }
+  },
+  {
+    "id": "r00536",
+    "athleteId": "a0339",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 7,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          6,
+          7,
+          7,
+          7,
+          6,
+          7,
+          4
+        ],
+        "subtotal": 33,
+        "rank": 7
+      },
+      "final": {
+        "scores": [
+          7,
+          6,
+          7,
+          7,
+          6,
+          7,
+          4
+        ],
+        "subtotal": 33,
+        "rank": 7
+      },
+      "total": 66
+    }
+  },
+  {
+    "id": "r00537",
+    "athleteId": "a0043",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 8,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 7,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          8,
+          10,
+          9,
+          8,
+          10,
+          8,
+          9
+        ],
+        "subtotal": 44,
+        "rank": 8
+      },
+      "final": {
+        "scores": [
+          8,
+          10,
+          9,
+          8,
+          10,
+          8,
+          9
+        ],
+        "subtotal": 44,
+        "rank": 8
+      },
+      "total": 88
+    }
+  },
+  {
+    "id": "r00538",
+    "athleteId": "a0263",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 9,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 5,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          11,
+          11,
+          8,
+          9,
+          8,
+          10,
+          10
+        ],
+        "subtotal": 48,
+        "rank": 9
+      },
+      "final": {
+        "scores": [
+          11,
+          11,
+          8,
+          9,
+          7,
+          10,
+          10
+        ],
+        "subtotal": 48,
+        "rank": 9
+      },
+      "total": 96
+    }
+  },
+  {
+    "id": "r00539",
+    "athleteId": "a0269",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 10,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 6,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          9,
+          8,
+          11,
+          11,
+          9,
+          11,
+          8
+        ],
+        "subtotal": 48,
+        "rank": 10
+      },
+      "final": {
+        "scores": [
+          10,
+          8,
+          11,
+          11,
+          9,
+          11,
+          8
+        ],
+        "subtotal": 49,
+        "rank": 10
+      },
+      "total": 97
+    }
+  },
+  {
+    "id": "r00540",
+    "athleteId": "a0072",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 11,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 4,
+        "subtotal": 4
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          12,
+          9,
+          10,
+          10,
+          11,
+          9,
+          12
+        ],
+        "subtotal": 52,
+        "rank": 11
+      },
+      "final": {
+        "scores": [
+          12,
+          9,
+          10,
+          10,
+          11,
+          9,
+          12
+        ],
+        "subtotal": 52,
+        "rank": 11
+      },
+      "total": 104
+    }
+  },
+  {
+    "id": "r00541",
+    "athleteId": "a0293",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": 12,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": [
+          10,
+          12,
+          12,
+          12,
+          12,
+          12,
+          11
+        ],
+        "subtotal": 59,
+        "rank": 12
+      },
+      "final": {
+        "scores": [
+          9,
+          12,
+          12,
+          12,
+          12,
+          12,
+          11
+        ],
+        "subtotal": 59,
+        "rank": 12
+      },
+      "total": 118
+    }
+  },
+  {
+    "id": "r00542",
+    "athleteId": "a0267",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00543",
+    "athleteId": "a0321",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 3,
+        "subtotal": 3
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00544",
+    "athleteId": "a0320",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00545",
+    "athleteId": "a0296",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 2,
+        "subtotal": 2
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00546",
+    "athleteId": "a0340",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": 1,
+        "subtotal": 1
+      },
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00547",
+    "athleteId": "a0084",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00548",
+    "athleteId": "a0341",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00549",
+    "athleteId": "a0298",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00550",
+    "athleteId": "a0302",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00551",
+    "athleteId": "a0082",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00552",
+    "athleteId": "a0342",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00553",
+    "athleteId": "a0343",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00554",
+    "athleteId": "a0344",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00555",
+    "athleteId": "a0266",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00556",
+    "athleteId": "a0073",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00557",
+    "athleteId": "a0297",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00558",
+    "athleteId": "a0071",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00559",
+    "athleteId": "a0345",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00560",
+    "athleteId": "a0295",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00561",
+    "athleteId": "a0077",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00562",
+    "athleteId": "a0074",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
+  },
+  {
+    "id": "r00563",
+    "athleteId": "a0346",
+    "competitionId": "jbbf-nihon-2021",
+    "category": "女子フィジーク",
+    "rank": null,
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": null,
+      "secondPickup": null,
+      "prelim": null,
+      "final": null,
+      "total": null
+    }
   }
 ]

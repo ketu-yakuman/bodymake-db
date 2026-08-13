@@ -14,7 +14,7 @@ NUM_JUDGESを都度確認すること。
 """
 
 import re
-from parse_pdf_text import row_re, extract_category, _to_int
+from parse_pdf_text import row_re, extract_category, _to_int, _normalize_pref
 
 
 def parse_rounds(tokens, num_judges=7):
@@ -105,7 +105,7 @@ def parse_text_with_detail(raw_text, num_judges=7):
             "rank": rank,
             "no": _to_int(m.group("no")),
             "name": name,
-            "prefecture": m.group("pref"),
+            "prefecture": _normalize_pref(m.group("pref")),
             "club": club,
             "finaled": rank is not None,
             "detail": detail,

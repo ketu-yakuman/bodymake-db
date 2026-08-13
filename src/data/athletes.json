@@ -1951,5 +1951,474 @@
     "prefecture": "大阪府",
     "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ 十三大阪",
     "firstSeen": null
+  },
+  {
+    "id": "a0280",
+    "name": "相澤隼人",
+    "prefecture": "東京都",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ ｻｳｽ東京",
+    "firstSeen": null
+  },
+  {
+    "id": "a0281",
+    "name": "木村征一郎",
+    "prefecture": "兵庫県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ 新神戸",
+    "firstSeen": null
+  },
+  {
+    "id": "a0282",
+    "name": "村上勝英",
+    "prefecture": "大阪府",
+    "club": "ﾏｸﾞﾅﾑﾌｨｯﾄﾈｽｾﾝﾀｰ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0283",
+    "name": "相澤飛鳥",
+    "prefecture": "神奈川県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ 厚木神奈川",
+    "firstSeen": null
+  },
+  {
+    "id": "a0284",
+    "name": "小野善行",
+    "prefecture": "東京都",
+    "club": "JBBF個人選手登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0285",
+    "name": "川畑法雄",
+    "prefecture": "東京都",
+    "club": "成増ﾄﾚｰﾆﾝｸﾞｾﾝﾀｰ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0286",
+    "name": "岩谷徹",
+    "prefecture": "群馬県",
+    "club": "JBBF個人選手登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0287",
+    "name": "椿幸仁",
+    "prefecture": "東京都",
+    "club": "JBBF個人選手登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0288",
+    "name": "篠田真",
+    "prefecture": "東京都",
+    "club": "ﾄﾚｰﾆﾝｸﾞｾﾝﾀｰ ｻﾝﾌﾟﾚｲ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0289",
+    "name": "大前敦志",
+    "prefecture": "兵庫県",
+    "club": "ｳｪﾙﾈｽﾕｳ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0290",
+    "name": "宇野航大",
+    "prefecture": "長崎県",
+    "club": "ﾏﾙﾔｼﾞﾑ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0291",
+    "name": "河村秀美",
+    "prefecture": "広島県",
+    "club": "東広島ﾎﾞﾃﾞｨﾋﾞﾙ･ﾌｨｯﾄﾈｽ同好会",
+    "firstSeen": null
+  },
+  {
+    "id": "a0292",
+    "name": "村山彩乃",
+    "prefecture": "東京都",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ ｳｴｽﾄ東京",
+    "firstSeen": null
+  },
+  {
+    "id": "a0293",
+    "name": "春日千春",
+    "prefecture": "長野県",
+    "club": "MAP-J TRIBE",
+    "firstSeen": null
+  },
+  {
+    "id": "a0294",
+    "name": "吉岡美里",
+    "prefecture": "神奈川県",
+    "club": "横浜ﾏﾘﾝﾄﾚｰﾆﾝｸﾞｼﾞﾑ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0295",
+    "name": "萩原丈巳",
+    "prefecture": "山梨県",
+    "club": "JBBF個人選手登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0296",
+    "name": "安田敦子",
+    "prefecture": "東京都",
+    "club": "成増ﾄﾚｰﾆﾝｸﾞｾﾝﾀｰ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0297",
+    "name": "高橋典子",
+    "prefecture": "東京都",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ ｳｴｽﾄ東京",
+    "firstSeen": null
+  },
+  {
+    "id": "a0298",
+    "name": "川上由美子",
+    "prefecture": "北海道",
+    "club": "ｱｲｱﾝｼﾞﾑ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0299",
+    "name": "伊藤美代",
+    "prefecture": "神奈川県",
+    "club": "JBBF個人選手登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0300",
+    "name": "林智砂",
+    "prefecture": "東京都",
+    "club": "ﾘｱﾙ筋力ｼﾞﾑ QOLLabｸｵﾙﾗﾎﾞ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0301",
+    "name": "坂口静香",
+    "prefecture": "茨城県",
+    "club": "JBBF個人選手登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0302",
+    "name": "門脇由夏",
+    "prefecture": "北海道",
+    "club": "ｳｴｲﾄﾄﾚｰﾆﾝｸﾞｼﾞﾑB-ONE",
+    "firstSeen": null
+  },
+  {
+    "id": "a0303",
+    "name": "落合美里",
+    "prefecture": "静岡県",
+    "club": "F･T GYM",
+    "firstSeen": null
+  },
+  {
+    "id": "a0304",
+    "name": "原田さゆり",
+    "prefecture": "長野県",
+    "club": "MTG 松本ﾄﾚｰﾆﾝｸﾞｼﾞﾑ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0305",
+    "name": "上田ほほ",
+    "prefecture": "東京都",
+    "club": "JBBF個人選手登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0306",
+    "name": "嶋田慶太",
+    "prefecture": "福岡県",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ個人登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0307",
+    "name": "井上裕章",
+    "prefecture": "静岡県",
+    "club": "Body Planner Rabbitcho",
+    "firstSeen": null
+  },
+  {
+    "id": "a0308",
+    "name": "岡田隆",
+    "prefecture": "社会人",
+    "club": "日体大ﾎﾞﾃﾞｨﾋﾞﾙｸﾗﾌﾞ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0309",
+    "name": "石坂恵一",
+    "prefecture": "石川県",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ個人登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0310",
+    "name": "西田鈴一郎",
+    "prefecture": "東京都",
+    "club": "ﾄﾚｰﾆﾝｸﾞｾﾝﾀｰｻﾝﾌﾟﾚｲ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0311",
+    "name": "林英二",
+    "prefecture": "長野県",
+    "club": "MTG(松本ﾄﾚｰﾆﾝｸﾞｼﾞﾑ)",
+    "firstSeen": null
+  },
+  {
+    "id": "a0312",
+    "name": "難波文義",
+    "prefecture": "三重県",
+    "club": "ﾃﾞﾋﾞﾙ ﾎﾞﾃﾞｨﾋﾞﾙ同好会",
+    "firstSeen": null
+  },
+  {
+    "id": "a0313",
+    "name": "五味原領",
+    "prefecture": "東京都",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑｲｰｽﾄ東京",
+    "firstSeen": null
+  },
+  {
+    "id": "a0314",
+    "name": "西村公行",
+    "prefecture": "熊本県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ上通り熊本店",
+    "firstSeen": null
+  },
+  {
+    "id": "a0315",
+    "name": "三島流平",
+    "prefecture": "茨城県",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ個人登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0316",
+    "name": "佐藤浩慈",
+    "prefecture": "福岡県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ博多福岡",
+    "firstSeen": null
+  },
+  {
+    "id": "a0317",
+    "name": "小島大和",
+    "prefecture": "岐阜県",
+    "club": "STﾄﾚｰﾆﾝｸﾞｾﾝﾀｰ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0318",
+    "name": "榎田大人",
+    "prefecture": "欠場",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ個人登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0319",
+    "name": "荒川翔哉",
+    "prefecture": "欠場",
+    "club": "ﾄﾚｰﾆﾝｸﾞｼﾞﾑkenkodo",
+    "firstSeen": null
+  },
+  {
+    "id": "a0320",
+    "name": "片山めぐみ",
+    "prefecture": "愛媛県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ新居浜愛媛",
+    "firstSeen": null
+  },
+  {
+    "id": "a0321",
+    "name": "沼田初恵",
+    "prefecture": "神奈川県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ厚木神奈川",
+    "firstSeen": null
+  },
+  {
+    "id": "a0322",
+    "name": "大久保智美",
+    "prefecture": "東京都",
+    "club": "小金井ﾄﾚｰﾆﾝｸﾞｾﾝﾀｰ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0323",
+    "name": "大倉志満恵",
+    "prefecture": "兵庫県",
+    "club": "ﾏｸﾞﾅﾑﾌｨｯﾄﾈｽｾﾝﾀｰ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0324",
+    "name": "加藤優子",
+    "prefecture": "愛知県",
+    "club": "PUMPﾎﾞﾃﾞｨﾋﾞﾙ同好会",
+    "firstSeen": null
+  },
+  {
+    "id": "a0325",
+    "name": "門脇由夏",
+    "prefecture": "欠場",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ個人登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0326",
+    "name": "松尾友喜子",
+    "prefecture": "欠場",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ個人登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0327",
+    "name": "松尾幸作",
+    "prefecture": "愛知県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ名古屋金山",
+    "firstSeen": null
+  },
+  {
+    "id": "a0328",
+    "name": "金子芳宏",
+    "prefecture": "神奈川県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ溝の口神奈川",
+    "firstSeen": null
+  },
+  {
+    "id": "a0329",
+    "name": "鷲巣国彦",
+    "prefecture": "長野県",
+    "club": "上田ﾎﾞﾃﾞｨﾋﾞﾙ･ﾌｨｯﾄﾈｽ同好会",
+    "firstSeen": null
+  },
+  {
+    "id": "a0330",
+    "name": "笠原司",
+    "prefecture": "神奈川県",
+    "club": "ﾁｭﾗ･ﾆｾｰｸﾗﾌﾞ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0331",
+    "name": "加藤充",
+    "prefecture": "社会人",
+    "club": "加藤鍼灸院ﾎﾞﾃﾞｨﾋﾞﾙｸﾗﾌﾞ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0332",
+    "name": "岩尾佳毅",
+    "prefecture": "兵庫県",
+    "club": "尼崎ﾎﾞﾃﾞｨﾋﾞﾙ同好会",
+    "firstSeen": null
+  },
+  {
+    "id": "a0333",
+    "name": "田中光昭",
+    "prefecture": "東京都",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑｳｴｽﾄ東京",
+    "firstSeen": null
+  },
+  {
+    "id": "a0334",
+    "name": "伊藤一洋",
+    "prefecture": "福岡県",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ&ﾌｨｯﾄﾈｽXO",
+    "firstSeen": null
+  },
+  {
+    "id": "a0335",
+    "name": "岸田勇輝",
+    "prefecture": "神奈川県",
+    "club": "横浜ﾏﾘﾝﾄﾚｰﾆﾝｼﾞﾑ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0336",
+    "name": "川崎一輝",
+    "prefecture": "欠場",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ横須賀神奈川",
+    "firstSeen": null
+  },
+  {
+    "id": "a0337",
+    "name": "合戸孝二",
+    "prefecture": "欠場",
+    "club": "ﾏｯｽﾙﾊｳｽGYM",
+    "firstSeen": null
+  },
+  {
+    "id": "a0338",
+    "name": "宮田みゆき",
+    "prefecture": "神奈川県",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ個人登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0339",
+    "name": "村山彩乃",
+    "prefecture": "新潟県",
+    "club": "ﾎﾞﾃﾞｨﾋﾞﾙ個人登録",
+    "firstSeen": null
+  },
+  {
+    "id": "a0340",
+    "name": "伴野美智",
+    "prefecture": "東京都",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑｻｳｽ東京",
+    "firstSeen": null
+  },
+  {
+    "id": "a0341",
+    "name": "吉田千映子",
+    "prefecture": "神奈川県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ横浜上星川",
+    "firstSeen": null
+  },
+  {
+    "id": "a0342",
+    "name": "鴛渕奈津子",
+    "prefecture": "大阪府",
+    "club": "ｽﾎﾟｰﾂｼﾞﾑB&F",
+    "firstSeen": null
+  },
+  {
+    "id": "a0343",
+    "name": "石井さやか",
+    "prefecture": "神奈川県",
+    "club": "横浜ﾏﾘﾝﾄﾚｰﾆﾝｸﾞｼﾞﾑ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0344",
+    "name": "渡部みゆき",
+    "prefecture": "神奈川県",
+    "club": "ｺﾞｰﾙﾄﾞｼﾞﾑ横須賀神奈川",
+    "firstSeen": null
+  },
+  {
+    "id": "a0345",
+    "name": "湯澤寿枝",
+    "prefecture": "栃木県",
+    "club": "蔵の街ｽﾎﾟｰﾂｸﾗﾌﾞ",
+    "firstSeen": null
+  },
+  {
+    "id": "a0346",
+    "name": "今井由香",
+    "prefecture": "社会人",
+    "club": "昭和大学ﾌｨｯﾄﾈｽﾎﾞﾃﾞｨﾋﾞﾙｸﾗﾌﾞ",
+    "firstSeen": null
   }
 ]

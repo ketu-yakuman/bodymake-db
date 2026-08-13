@@ -47,5 +47,38 @@
       "男子ボディビル",
       "女子フィジーク"
     ]
+  },
+  {
+    "id": "jbbf-nihon-2023",
+    "name": "2023年 日本選手権大会",
+    "federationId": "jbbf",
+    "date": "2023-10-08",
+    "venue": "東京都 江戸川総合文化センター",
+    "categories": [
+      "男子ボディビル",
+      "女子フィジーク"
+    ]
+  },
+  {
+    "id": "jbbf-nihon-2022",
+    "name": "2022年 日本選手権大会",
+    "federationId": "jbbf",
+    "date": "2022-10-09",
+    "venue": "東京都",
+    "categories": [
+      "男子ボディビル",
+      "女子フィジーク"
+    ]
+  },
+  {
+    "id": "jbbf-nihon-2021",
+    "name": "2021年 日本選手権大会",
+    "federationId": "jbbf",
+    "date": "2021-10-10",
+    "venue": "東京都",
+    "categories": [
+      "男子ボディビル",
+      "女子フィジーク"
+    ]
   }
 ]
