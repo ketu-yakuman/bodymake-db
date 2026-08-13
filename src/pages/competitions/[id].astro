@@ -19,12 +19,17 @@ const federation = federations.find((f) => f.id === competition.federationId);
 const entries = results
   .filter((r) => r.competitionId === competition.id)
   .map((r) => ({ ...r, athlete: athletes.find((a) => a.id === r.athleteId) }))
-  .sort((a, b) => a.rank - b.rank);
+  .sort((a, b) => (a.rank ?? 999) - (b.rank ?? 999));
 
-const byCategory = competition.categories.map((cat: string) => ({
-  category: cat,
-  entries: entries.filter((e) => e.category === cat),
-}));
+const byCategory = competition.categories
+  .map((cat: string) => ({
+    category: cat,
+    entries: entries.filter((e) => e.category === cat),
+    hasDetail: entries.some((e) => e.category === cat && e.detail),
+  }))
+  .filter((c) => c.entries.length > 0);
+
+const fmt = (v: number | null | undefined) => (v === null || v === undefined ? "―" : v);
 ---
 <Base title={competition.name}>
   <div class="comp-header">
@@ -32,21 +37,70 @@ const byCategory = competition.categories.map((cat: string) => ({
     <h1>{competition.name}</h1>
   </div>
 
-  {byCategory.map(({ category, entries }) => (
-    entries.length > 0 && (
-      <div class="category-block">
-        <h2 class="section-title">{category}</h2>
+  {byCategory.map(({ category, entries, hasDetail }) => (
+    <details class="category-block">
+      <summary class="section-title">
+        {category}
+        <span class="count">{entries.length}名</span>
+      </summary>
+
+      {hasDetail ? (
+        <div class="score-table-wrap">
+          <table class="score-table">
+            <thead>
+              <tr>
+                <th>順位</th>
+                <th class="col-name">選手</th>
+                <th>1次PU</th>
+                <th>2次PU</th>
+                <th colspan={entries[0]?.detail?.judges.length ?? 7}>予選(審査員別)</th>
+                <th>予選小計</th>
+                <th>予選順位</th>
+                <th colspan={entries[0]?.detail?.judges.length ?? 7}>決勝(審査員別)</th>
+                <th>決勝小計</th>
+                <th>決勝順位</th>
+                <th>合計</th>
+              </tr>
+            </thead>
+            <tbody>
+              {entries.map((e) => (
+                <tr class:list={{ "rank-1": e.rank === 1, "rank-2": e.rank === 2, "rank-3": e.rank === 3 }}>
+                  <td class="rank-cell">
+                    {e.athlete.prefecture === "欠場" ? "欠場" : fmt(e.rank)}
+                  </td>
+                  <td class="col-name">
+                    <a href={withBase(`/athletes/${e.athlete.id}/`)}>{e.athlete.name}</a>
+                  </td>
+                  <td>{fmt(e.detail?.firstPickup?.subtotal)}</td>
+                  <td>{fmt(e.detail?.secondPickup?.subtotal)}</td>
+                  {(e.detail?.judges ?? Array(7).fill(null)).map((_, i) => (
+                    <td class="score-cell">{fmt(e.detail?.prelim?.scores?.[i])}</td>
+                  ))}
+                  <td>{fmt(e.detail?.prelim?.subtotal)}</td>
+                  <td>{fmt(e.detail?.prelim?.rank)}</td>
+                  {(e.detail?.judges ?? Array(7).fill(null)).map((_, i) => (
+                    <td class="score-cell">{fmt(e.detail?.final?.scores?.[i])}</td>
+                  ))}
+                  <td>{fmt(e.detail?.final?.subtotal)}</td>
+                  <td>{fmt(e.detail?.final?.rank)}</td>
+                  <td class="total-cell">{fmt(e.detail?.total)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      ) : (
         <ul class="record-list">
           {entries.map((e) => (
-            <li class:list={["record-item", { win: e.rank === 1 }]}>
-              <span class="rank">{e.rank}</span>
+            <li class:list={["record-item", { "rank-1": e.rank === 1, "rank-2": e.rank === 2, "rank-3": e.rank === 3 }]}>
+              <span class="rank">{fmt(e.rank)}</span>
               <a class="athlete-name" href={withBase(`/athletes/${e.athlete.id}/`)}>{e.athlete.name}</a>
               <span class="athlete-pref">{e.athlete.prefecture}</span>
             </li>
           ))}
         </ul>
-      </div>
-    )
+      )}
+    </details>
   ))}
 </Base>
 
@@ -55,17 +109,112 @@ const byCategory = competition.categories.map((cat: string) => ({
   .eyebrow { font-family: "Oswald", sans-serif; letter-spacing: 0.1em; font-size: 12px; color: var(--text-dim); margin: 0 0 8px; }
   h1 { font-size: 26px; margin: 0; }
 
-  .category-block { margin-bottom: 32px; }
+  .category-block {
+    margin-bottom: 14px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--surface);
+  }
   .section-title {
-    font-family: "Oswald", sans-serif; font-size: 13px; letter-spacing: 0.1em;
-    color: var(--text-dim); margin: 0 0 12px;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 16px;
+    font-family: "Oswald", sans-serif;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+    color: var(--text);
+  }
+  .section-title::-webkit-details-marker { display: none; }
+  .section-title::before {
+    content: "▸";
+    color: var(--accent);
+    transition: transform 0.15s;
+  }
+  details[open] > .section-title::before { transform: rotate(90deg); }
+  .section-title .count {
+    margin-left: auto;
+    font-size: 12px;
+    color: var(--text-dim);
+    font-family: "Noto Sans JP", sans-serif;
   }
 
   .record-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
-  .record-item { display: flex; align-items: center; gap: 16px; padding: 12px 4px; border-bottom: 1px solid var(--line); }
+  .record-item { display: flex; align-items: center; gap: 16px; padding: 12px 16px; border-bottom: 1px solid var(--line); }
+  .record-item:last-child { border-bottom: none; }
   .rank { font-family: "Oswald", sans-serif; font-weight: 700; font-size: 20px; width: 30px; text-align: center; color: var(--text-dim); }
-  .record-item.win .rank { color: var(--gold); }
+  .record-item.rank-1 .rank { color: var(--gold); }
+  .record-item.rank-2 .rank { color: var(--silver); }
+  .record-item.rank-3 .rank { color: var(--bronze); }
   .athlete-name { flex: 1; text-decoration: none; color: var(--text); font-weight: 500; }
   .athlete-name:hover { color: var(--accent); }
   .athlete-pref { font-size: 13px; color: var(--text-dim); }
+
+  .score-table-wrap {
+    overflow-x: auto;
+    border-top: 1px solid var(--line);
+  }
+  .score-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  .score-table th, .score-table td {
+    padding: 6px 8px;
+    text-align: center;
+    border-bottom: 1px solid var(--line);
+  }
+  .score-table thead th {
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 0.03em;
+    color: var(--text-dim);
+    font-weight: 500;
+    font-size: 11px;
+  }
+  .col-name { text-align: left; }
+  .score-table th.col-name,
+  .score-table td.col-name { text-align: left; }
+  .col-name a { color: var(--text); text-decoration: none; font-weight: 500; }
+  .col-name a:hover { color: var(--accent); }
+  .rank-cell { font-family: "Oswald", sans-serif; font-weight: 700; color: var(--text-dim); }
+  .score-table tr.rank-1 .rank-cell { color: var(--gold); }
+  .score-table tr.rank-2 .rank-cell { color: var(--silver); }
+  .score-table tr.rank-3 .rank-cell { color: var(--bronze); }
+  .score-cell { color: var(--text-dim); }
+  .total-cell { font-weight: 700; color: var(--text); }
+
+  .score-table th:first-child,
+  .score-table td.rank-cell {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+    width: 52px;
+    min-width: 52px;
+    background: var(--surface);
+  }
+  .score-table th.col-name,
+  .score-table td.col-name {
+    position: sticky;
+    left: 52px;
+    z-index: 2;
+    width: 130px;
+    min-width: 130px;
+    background: var(--surface);
+    border-right: 1px solid var(--line);
+  }
+  .score-table thead th.col-name,
+  .score-table thead th:first-child {
+    z-index: 3;
+  }
+  .score-table tr.rank-1 td.rank-cell,
+  .score-table tr.rank-1 td.col-name,
+  .score-table tr.rank-2 td.rank-cell,
+  .score-table tr.rank-2 td.col-name,
+  .score-table tr.rank-3 td.rank-cell,
+  .score-table tr.rank-3 td.col-name {
+    background: var(--surface-raised);
+  }
 </style>

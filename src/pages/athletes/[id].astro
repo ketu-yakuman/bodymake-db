@@ -36,7 +36,7 @@ const wins = record.filter((r) => r.rank === 1).length;
   <h2 class="section-title">出場歴</h2>
   <ul class="record-list">
     {record.map((r) => (
-      <li class:list={["record-item", { win: r.rank === 1 }]}>
+      <li class:list={["record-item", { "rank-1": r.rank === 1, "rank-2": r.rank === 2, "rank-3": r.rank === 3 }]}>
         <span class="rank">{r.rank}</span>
         <div class="record-body">
           <a class="comp-name" href={withBase(`/competitions/${r.competition.id}/`)}>{r.competition.name}</a>
@@ -90,7 +90,9 @@ const wins = record.filter((r) => r.rank === 1).length;
     text-align: center;
     color: var(--text-dim);
   }
-  .record-item.win .rank { color: var(--gold); }
+  .record-item.rank-1 .rank { color: var(--gold); }
+  .record-item.rank-2 .rank { color: var(--silver); }
+  .record-item.rank-3 .rank { color: var(--bronze); }
   .record-body { flex: 1; display: flex; flex-direction: column; gap: 2px; }
   .comp-name { text-decoration: none; color: var(--text); font-weight: 500; }
   .comp-name:hover { color: var(--accent); }

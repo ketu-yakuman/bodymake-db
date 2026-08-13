@@ -9,9 +9,16 @@ const fedName = (id: string) => federations.find((f) => f.id === id)?.name ?? id
 ---
 <Base title="大会一覧">
   <h1 class="page-title">大会一覧</h1>
-  <ul class="comp-list">
+
+  <form class="search-form" id="comp-search-form">
+    <input type="text" id="comp-search-input" placeholder="大会名・団体名で検索" autocomplete="off" />
+    <button type="submit">検索</button>
+  </form>
+  <p class="search-empty" id="comp-search-empty" hidden>該当する大会が見つかりませんでした。</p>
+
+  <ul class="comp-list" id="comp-list">
     {sorted.map((c) => (
-      <li>
+      <li data-name={`${c.name} ${fedName(c.federationId)}`}>
         <a href={withBase(`/competitions/${c.id}/`)}>
           <span class="comp-date">{c.date}</span>
           <span class="comp-name">{c.name}</span>
@@ -22,8 +29,58 @@ const fedName = (id: string) => federations.find((f) => f.id === id)?.name ?? id
   </ul>
 </Base>
 
+<script>
+  const form = document.getElementById("comp-search-form") as HTMLFormElement;
+  const input = document.getElementById("comp-search-input") as HTMLInputElement;
+  const empty = document.getElementById("comp-search-empty") as HTMLElement;
+  const items = document.querySelectorAll<HTMLLIElement>("#comp-list li");
+
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const q = input.value.trim();
+    let visibleCount = 0;
+    items.forEach((li) => {
+      const name = li.dataset.name ?? "";
+      const match = q === "" || name.includes(q);
+      li.hidden = !match;
+      if (match) visibleCount++;
+    });
+    empty.hidden = visibleCount !== 0;
+  });
+</script>
+
 <style>
-  .page-title { font-size: 24px; margin: 0 0 24px; }
+  .page-title { font-size: 24px; margin: 0 0 16px; }
+
+  .search-form {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+  .search-form input {
+    flex: 1;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    color: var(--text);
+    padding: 10px 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  .search-form input:focus { outline: 1px solid var(--accent); }
+  .search-form button {
+    background: var(--accent);
+    color: var(--text);
+    border: none;
+    padding: 0 20px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .search-form button:hover { opacity: 0.85; }
+  .search-empty { color: var(--text-dim); font-size: 14px; padding: 12px 4px; }
+
   .comp-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
   .comp-list li { border-bottom: 1px solid var(--line); }
   .comp-list a {
