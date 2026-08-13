@@ -23,8 +23,6 @@ jobs:
 
       - name: Astroのインストール・ビルド
         uses: withastro/action@v3
-        with:
-          node-version: 22
         # 内部で package.json を検出し、npm install → npm run build を実行し、
         # 生成された dist/ フォルダを Pages 用にアップロードしてくれる
 

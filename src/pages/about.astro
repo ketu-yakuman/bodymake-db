@@ -1,0 +1,64 @@
+---
+import Base from "../layouts/Base.astro";
+import { withBase } from "../lib/url.js";
+import athletes from "../data/athletes.json";
+import competitions from "../data/competitions.json";
+import federations from "../data/federations.json";
+---
+<Base title="このサイトについて">
+  <h1 class="page-title">このサイトについて</h1>
+
+  <section class="prose">
+    <h2>目的</h2>
+    <p>
+      国内のボディビル・フィジーク・ビキニフィットネスなど、ボディメイク系競技の大会結果を
+      選手ごとに整理し、横断的に確認できるデータベースとして運営しています。
+      国内の大会結果は各連盟のサイトで大会ごとに個別公開されているものの、
+      選手単位で複数大会・複数年の戦績をまとめて見られる場所がなかったため、
+      個人の趣味として構築・公開しています。
+    </p>
+
+    <h2>掲載データについて</h2>
+    <p>
+      現在、{federations.map((f) => f.fullName).join("・")}が主催する大会の公式結果をもとに、
+      {athletes.length}名の選手・{competitions.length}大会分のデータを掲載しています。
+      大会結果は各連盟が公開しているPDF等の一次情報をもとに作成していますが、
+      選手の同定(名寄せ)には一定の確度の幅があります。誤りにお気づきの場合は
+      <a href={withBase("/contact/")}>お問い合わせページ</a>よりご連絡いただけますと幸いです。
+    </p>
+
+    <h2>運営者について</h2>
+    <p>
+      個人で企画・開発・運営しています。統計データの取り扱いや構造化に関する業務経験を
+      活かし、大会結果の整理・可視化に取り組んでいます。
+    </p>
+
+    <h2>本サイトと各競技団体との関係</h2>
+    <p>
+      本サイトは個人が独自に運営するファンサイトであり、JBBF(公益社団法人 日本ボディビル・
+      フィットネス連盟)をはじめとする各競技団体の公式サイトではありません。
+      各団体・大会運営とは関係なく、公開情報をもとに独自に作成しています。
+    </p>
+
+    <h2>今後の展望</h2>
+    <p>
+      大会結果データの拡充に加えて、出場者数の推移分析や、選手のキャリアパス(大会間の
+      勝ち上がり・遷移)の可視化機能を追加していく予定です。
+    </p>
+  </section>
+</Base>
+
+<style>
+  .page-title { font-size: 24px; margin: 0 0 24px; }
+  .prose { max-width: 68ch; line-height: 1.9; color: var(--text); }
+  .prose h2 {
+    font-family: "Oswald", sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin: 32px 0 10px;
+  }
+  .prose h2:first-child { margin-top: 0; }
+  .prose p { margin: 0 0 8px; color: var(--text-dim); }
+  .prose a { color: var(--text); text-decoration: underline; }
+</style>

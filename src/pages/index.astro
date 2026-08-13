@@ -9,11 +9,12 @@ const recentComps = [...competitions].sort((a, b) => (a.date < b.date ? 1 : -1))
 ---
 <Base title="トップ">
   <section class="hero">
-    <p class="eyebrow">JBBF / FWJ 大会成績アーカイブ（試作）</p>
+    <p class="eyebrow">JBBF 大会成績アーカイブ</p>
     <h1>選手ごとの戦績を、大会をまたいで追う。</h1>
     <p class="lede">
-      {athletes.length}名の選手 / {competitions.length}大会 / {results.length}件の結果を格納したサンプルデータです。
-      選手ページ・大会ページはJSONデータからビルド時に自動生成されています。
+      JBBF主催大会の公式結果をもとに、選手ごとの戦績を横断的に確認できるデータベースです。
+      現在{athletes.length}名の選手・{competitions.length}大会・{results.length}件の結果を掲載しています。
+      大会結果は今後も随時追加していきます。
     </p>
   </section>
 

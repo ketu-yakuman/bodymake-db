@@ -1,0 +1,69 @@
+---
+import Base from "../layouts/Base.astro";
+import { withBase } from "../lib/url.js";
+---
+<Base title="プライバシーポリシー">
+  <h1 class="page-title">プライバシーポリシー</h1>
+
+  <section class="prose">
+    <h2>アクセス解析ツールについて</h2>
+    <p>
+      当サイトでは、Googleが提供するアクセス解析ツール「Googleアナリティクス」を利用しています。
+      Googleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。
+      このデータは匿名で収集されており、個人を特定するものではありません。
+      この機能はCookieを無効にすることで収集を拒否することが可能ですので、
+      お使いのブラウザの設定をご確認ください。この規約に関して、詳しくは
+      <a href="https://marketingplatform.google.com/about/analytics/terms/jp/" target="_blank" rel="noopener">Googleアナリティクス利用規約</a>
+      のページや<a href="https://policies.google.com/technologies/ads?hl=ja" target="_blank" rel="noopener">Googleポリシーと規約ページ</a>をご覧ください。
+    </p>
+
+    <h2>広告について</h2>
+    <p>
+      当サイトは、将来的にGoogle AdSense等の第三者配信の広告サービスを利用する場合があります。
+      広告配信事業者は、ユーザーの興味に応じた広告を表示するためにCookieを使用することがあります。
+      Cookieを無効にする方法や、Googleアドセンスに関する詳細は
+      <a href="https://policies.google.com/technologies/ads?hl=ja" target="_blank" rel="noopener">広告 – ポリシーと規約 – Google</a>
+      をご確認ください。
+    </p>
+
+    <h2>免責事項</h2>
+    <p>
+      当サイトに掲載する情報については、可能な限り正確な情報を掲載するよう努めておりますが、
+      誤りや古い情報が含まれる場合があります。当サイトの情報を用いて行う行動については、
+      すべて利用者ご自身の責任において行っていただきますようお願いいたします。
+      当サイトに掲載された内容によって生じた損害等について、一切の責任を負いかねます。
+    </p>
+    <p>
+      当サイトは個人が独自に運営するものであり、JBBFをはじめとする各競技団体・大会運営とは
+      関係ありません。詳しくは<a href={withBase("/about/")}>このサイトについて</a>をご覧ください。
+    </p>
+
+    <h2>著作権について</h2>
+    <p>
+      当サイトに掲載している文章・画像等の著作権は、特に記載のない限り運営者に帰属します。
+      大会結果データは各競技団体が公開する情報をもとに、事実の再構成として掲載しています。
+    </p>
+
+    <h2>プライバシーポリシーの変更について</h2>
+    <p>
+      当サイトは、個人情報に関して適用される日本の法令を遵守するとともに、本ポリシーの内容を
+      適宜見直し、その改善に努めます。修正した最新のプライバシーポリシーは常に本ページにて
+      開示されます。
+    </p>
+  </section>
+</Base>
+
+<style>
+  .page-title { font-size: 24px; margin: 0 0 24px; }
+  .prose { max-width: 68ch; line-height: 1.9; }
+  .prose h2 {
+    font-family: "Oswald", sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin: 32px 0 10px;
+  }
+  .prose h2:first-child { margin-top: 0; }
+  .prose p { margin: 0 0 8px; color: var(--text-dim); }
+  .prose a { color: var(--text); text-decoration: underline; }
+</style>
