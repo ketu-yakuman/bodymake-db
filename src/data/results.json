@@ -15127,5 +15127,773 @@
       "final": null,
       "total": null
     }
+  },
+  {
+    "id": "r00570",
+    "athleteId": "a0332",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 1,
+    "confidence": "new"
+  },
+  {
+    "id": "r00571",
+    "athleteId": "a0003",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 2,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00572",
+    "athleteId": "a0004",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 3,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00573",
+    "athleteId": "a0002",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 4,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00574",
+    "athleteId": "a0010",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 5,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00575",
+    "athleteId": "a0039",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 6,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00576",
+    "athleteId": "a0007",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 7,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00577",
+    "athleteId": "a0005",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 8,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00578",
+    "athleteId": "a0001",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 9,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00579",
+    "athleteId": "a0009",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 10,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00580",
+    "athleteId": "a0006",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 11,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00581",
+    "athleteId": "a0008",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "男子ボディビル",
+    "rank": 12,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00582",
+    "athleteId": "a0333",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 1,
+    "confidence": "new"
+  },
+  {
+    "id": "r00583",
+    "athleteId": "a0040",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 2,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00584",
+    "athleteId": "a0094",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 3,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00585",
+    "athleteId": "a0041",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 4,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00586",
+    "athleteId": "a0046",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 5,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00587",
+    "athleteId": "a0045",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 6,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00588",
+    "athleteId": "a0334",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 7,
+    "confidence": "new"
+  },
+  {
+    "id": "r00589",
+    "athleteId": "a0043",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 8,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00590",
+    "athleteId": "a0044",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 9,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00591",
+    "athleteId": "a0335",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 10,
+    "confidence": "new"
+  },
+  {
+    "id": "r00592",
+    "athleteId": "a0336",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 11,
+    "confidence": "new"
+  },
+  {
+    "id": "r00593",
+    "athleteId": "a0337",
+    "competitionId": "jbbf-nihon-2019",
+    "category": "女子フィジーク",
+    "rank": 12,
+    "confidence": "new"
+  },
+  {
+    "id": "r00594",
+    "athleteId": "a0338",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 1,
+    "confidence": "new"
+  },
+  {
+    "id": "r00595",
+    "athleteId": "a0332",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 2,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00596",
+    "athleteId": "a0003",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 3,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00597",
+    "athleteId": "a0010",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 4,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00598",
+    "athleteId": "a0039",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 5,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00599",
+    "athleteId": "a0002",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 6,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00600",
+    "athleteId": "a0004",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 7,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00601",
+    "athleteId": "a0009",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 8,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00602",
+    "athleteId": "a0339",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 9,
+    "confidence": "new"
+  },
+  {
+    "id": "r00603",
+    "athleteId": "a0005",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 10,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00604",
+    "athleteId": "a0340",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 11,
+    "confidence": "new"
+  },
+  {
+    "id": "r00605",
+    "athleteId": "a0341",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "男子ボディビル",
+    "rank": 12,
+    "confidence": "new"
+  },
+  {
+    "id": "r00606",
+    "athleteId": "a0040",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 1,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00607",
+    "athleteId": "a0342",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 2,
+    "confidence": "new"
+  },
+  {
+    "id": "r00608",
+    "athleteId": "a0094",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 3,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00609",
+    "athleteId": "a0041",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 4,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00610",
+    "athleteId": "a0343",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 5,
+    "confidence": "new"
+  },
+  {
+    "id": "r00611",
+    "athleteId": "a0093",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 6,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00612",
+    "athleteId": "a0336",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 7,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00613",
+    "athleteId": "a0334",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 8,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00614",
+    "athleteId": "a0045",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 9,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00615",
+    "athleteId": "a0344",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 10,
+    "confidence": "new"
+  },
+  {
+    "id": "r00616",
+    "athleteId": "a0345",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 11,
+    "confidence": "new"
+  },
+  {
+    "id": "r00617",
+    "athleteId": "a0335",
+    "competitionId": "jbbf-nihon-2018",
+    "category": "女子フィジーク",
+    "rank": 12,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00618",
+    "athleteId": "a0338",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 1,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00619",
+    "athleteId": "a0003",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 2,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00620",
+    "athleteId": "a0010",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 3,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00621",
+    "athleteId": "a0039",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 4,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00622",
+    "athleteId": "a0346",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 5,
+    "confidence": "new"
+  },
+  {
+    "id": "r00623",
+    "athleteId": "a0332",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 6,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00624",
+    "athleteId": "a0005",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 7,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00625",
+    "athleteId": "a0340",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 8,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00626",
+    "athleteId": "a0009",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 9,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00627",
+    "athleteId": "a0007",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 10,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00628",
+    "athleteId": "a0002",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 11,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00629",
+    "athleteId": "a0004",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "男子ボディビル",
+    "rank": 12,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00630",
+    "athleteId": "a0040",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 1,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00631",
+    "athleteId": "a0342",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 2,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00632",
+    "athleteId": "a0093",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 3,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00633",
+    "athleteId": "a0041",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 4,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00634",
+    "athleteId": "a0347",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 5,
+    "confidence": "new"
+  },
+  {
+    "id": "r00635",
+    "athleteId": "a0343",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 6,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00636",
+    "athleteId": "a0094",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 7,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00637",
+    "athleteId": "a0334",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 8,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00638",
+    "athleteId": "a0344",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 9,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00639",
+    "athleteId": "a0348",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 10,
+    "confidence": "new"
+  },
+  {
+    "id": "r00640",
+    "athleteId": "a0049",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 11,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00641",
+    "athleteId": "a0069",
+    "competitionId": "jbbf-nihon-2017",
+    "category": "女子フィジーク",
+    "rank": 12,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00642",
+    "athleteId": "a0338",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 1,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00643",
+    "athleteId": "a0010",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 2,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00644",
+    "athleteId": "a0003",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 3,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00645",
+    "athleteId": "a0004",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 4,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00646",
+    "athleteId": "a0346",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 5,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00647",
+    "athleteId": "a0340",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 6,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00648",
+    "athleteId": "a0009",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 7,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00649",
+    "athleteId": "a0007",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 8,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00650",
+    "athleteId": "a0002",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 9,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00651",
+    "athleteId": "a0080",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 10,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00652",
+    "athleteId": "a0011",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 11,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00653",
+    "athleteId": "a0349",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "男子ボディビル",
+    "rank": 12,
+    "confidence": "new"
+  },
+  {
+    "id": "r00654",
+    "athleteId": "a0342",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 1,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00655",
+    "athleteId": "a0093",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 2,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00656",
+    "athleteId": "a0040",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 3,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00657",
+    "athleteId": "a0350",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 4,
+    "confidence": "new"
+  },
+  {
+    "id": "r00658",
+    "athleteId": "a0351",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 5,
+    "confidence": "new"
+  },
+  {
+    "id": "r00659",
+    "athleteId": "a0042",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 6,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00660",
+    "athleteId": "a0343",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 7,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00661",
+    "athleteId": "a0041",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 8,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00662",
+    "athleteId": "a0334",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 9,
+    "confidence": "matched"
+  },
+  {
+    "id": "r00663",
+    "athleteId": "a0352",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 10,
+    "confidence": "new"
+  },
+  {
+    "id": "r00664",
+    "athleteId": "a0353",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 11,
+    "confidence": "new"
+  },
+  {
+    "id": "r00665",
+    "athleteId": "a0344",
+    "competitionId": "jbbf-nihon-2016",
+    "category": "女子フィジーク",
+    "rank": 12,
+    "confidence": "matched"
   }
 ]

@@ -80,5 +80,49 @@
       "男子ボディビル",
       "女子フィジーク"
     ]
+  },
+  {
+    "id": "jbbf-nihon-2019",
+    "name": "2019年 日本選手権大会",
+    "federationId": "jbbf",
+    "date": "2019-10-14",
+    "venue": "",
+    "categories": [
+      "男子ボディビル",
+      "女子フィジーク"
+    ]
+  },
+  {
+    "id": "jbbf-nihon-2018",
+    "name": "2018年 日本選手権大会",
+    "federationId": "jbbf",
+    "date": "2018-10-07",
+    "venue": "",
+    "categories": [
+      "男子ボディビル",
+      "女子フィジーク"
+    ]
+  },
+  {
+    "id": "jbbf-nihon-2017",
+    "name": "2017年 日本選手権大会",
+    "federationId": "jbbf",
+    "date": "2017-10-09",
+    "venue": "",
+    "categories": [
+      "男子ボディビル",
+      "女子フィジーク"
+    ]
+  },
+  {
+    "id": "jbbf-nihon-2016",
+    "name": "2016年 日本選手権大会",
+    "federationId": "jbbf",
+    "date": "2016-10-02",
+    "venue": "",
+    "categories": [
+      "男子ボディビル",
+      "女子フィジーク"
+    ]
   }
 ]
