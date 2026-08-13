@@ -15134,7 +15134,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 1,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 5,
+        "rank": 1
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 5,
+        "rank": 1
+      },
+      "total": 10
+    }
   },
   {
     "id": "r00571",
@@ -15142,7 +15172,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 2,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 10,
+        "rank": 2
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 10,
+        "rank": 2
+      },
+      "total": 20
+    }
   },
   {
     "id": "r00572",
@@ -15150,7 +15210,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 3,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 17,
+        "rank": 3
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 19,
+        "rank": 4
+      },
+      "total": 36
+    }
   },
   {
     "id": "r00573",
@@ -15158,7 +15248,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 4,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 20,
+        "rank": 4
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 19,
+        "rank": 3
+      },
+      "total": 39
+    }
   },
   {
     "id": "r00574",
@@ -15166,7 +15286,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 5,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 25,
+        "rank": 5
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 24,
+        "rank": 5
+      },
+      "total": 49
+    }
   },
   {
     "id": "r00575",
@@ -15174,7 +15324,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 6,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 28,
+        "rank": 6
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 28,
+        "rank": 6
+      },
+      "total": 56
+    }
   },
   {
     "id": "r00576",
@@ -15182,7 +15362,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 7,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 35,
+        "rank": 7
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 36,
+        "rank": 7
+      },
+      "total": 71
+    }
   },
   {
     "id": "r00577",
@@ -15190,7 +15400,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 8,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 40,
+        "rank": 8
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 39,
+        "rank": 8
+      },
+      "total": 79
+    }
   },
   {
     "id": "r00578",
@@ -15198,7 +15438,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 9,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 45,
+        "rank": 9
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 45,
+        "rank": 9
+      },
+      "total": 90
+    }
   },
   {
     "id": "r00579",
@@ -15206,7 +15476,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 10,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 50,
+        "rank": 10
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 50,
+        "rank": 10
+      },
+      "total": 100
+    }
   },
   {
     "id": "r00580",
@@ -15214,7 +15514,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 11,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 6
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 56,
+        "rank": 11
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 57,
+        "rank": 11
+      },
+      "total": 113
+    }
   },
   {
     "id": "r00581",
@@ -15222,7 +15552,37 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "男子ボディビル",
     "rank": 12,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 4
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 59,
+        "rank": 12
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 58,
+        "rank": 12
+      },
+      "total": 117
+    }
   },
   {
     "id": "r00582",
@@ -15230,7 +15590,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 1,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 6,
+        "rank": 1
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 6,
+        "rank": 1
+      },
+      "total": 12
+    }
   },
   {
     "id": "r00583",
@@ -15238,7 +15625,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 2,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 9,
+        "rank": 2
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 9,
+        "rank": 2
+      },
+      "total": 18
+    }
   },
   {
     "id": "r00584",
@@ -15246,7 +15660,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 3,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 15,
+        "rank": 3
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 15,
+        "rank": 3
+      },
+      "total": 30
+    }
   },
   {
     "id": "r00585",
@@ -15254,7 +15695,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 4,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 20,
+        "rank": 4
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 20,
+        "rank": 4
+      },
+      "total": 40
+    }
   },
   {
     "id": "r00586",
@@ -15262,7 +15730,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 5,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 25,
+        "rank": 5
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 24,
+        "rank": 5
+      },
+      "total": 49
+    }
   },
   {
     "id": "r00587",
@@ -15270,7 +15765,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 6,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 38,
+        "rank": 6
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 38,
+        "rank": 6
+      },
+      "total": 76
+    }
   },
   {
     "id": "r00588",
@@ -15278,7 +15800,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 7,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 41,
+        "rank": 8
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 40,
+        "rank": 7
+      },
+      "total": 81
+    }
   },
   {
     "id": "r00589",
@@ -15286,7 +15835,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 8,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 4
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 41,
+        "rank": 7
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 41,
+        "rank": 8
+      },
+      "total": 82
+    }
   },
   {
     "id": "r00590",
@@ -15294,7 +15870,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 9,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 45,
+        "rank": 9
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 44,
+        "rank": 9
+      },
+      "total": 89
+    }
   },
   {
     "id": "r00591",
@@ -15302,7 +15905,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 10,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 47,
+        "rank": 10
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 47,
+        "rank": 10
+      },
+      "total": 94
+    }
   },
   {
     "id": "r00592",
@@ -15310,7 +15940,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 11,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 50,
+        "rank": 11
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 51,
+        "rank": 11
+      },
+      "total": 101
+    }
   },
   {
     "id": "r00593",
@@ -15318,7 +15975,34 @@
     "competitionId": "jbbf-nihon-2019",
     "category": "女子フィジーク",
     "rank": 12,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 53,
+        "rank": 12
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 52,
+        "rank": 12
+      },
+      "total": 105
+    }
   },
   {
     "id": "r00594",
@@ -15326,7 +16010,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 1,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 6,
+        "rank": 1
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 6,
+        "rank": 1
+      },
+      "total": 12
+    }
   },
   {
     "id": "r00595",
@@ -15334,7 +16048,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 2,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 9,
+        "rank": 2
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 9,
+        "rank": 2
+      },
+      "total": 18
+    }
   },
   {
     "id": "r00596",
@@ -15342,7 +16086,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 3,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 18,
+        "rank": 4
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 18,
+        "rank": 3
+      },
+      "total": 36
+    }
   },
   {
     "id": "r00597",
@@ -15350,7 +16124,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 4,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 18,
+        "rank": 3
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 18,
+        "rank": 4
+      },
+      "total": 36
+    }
   },
   {
     "id": "r00598",
@@ -15358,7 +16162,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 5,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 23,
+        "rank": 5
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 23,
+        "rank": 5
+      },
+      "total": 46
+    }
   },
   {
     "id": "r00599",
@@ -15366,7 +16200,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 6,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 33,
+        "rank": 7
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 32,
+        "rank": 6
+      },
+      "total": 65
+    }
   },
   {
     "id": "r00600",
@@ -15374,7 +16238,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 7,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 32,
+        "rank": 6
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 33,
+        "rank": 7
+      },
+      "total": 65
+    }
   },
   {
     "id": "r00601",
@@ -15382,7 +16276,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 8,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 40,
+        "rank": 8
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 40,
+        "rank": 8
+      },
+      "total": 80
+    }
   },
   {
     "id": "r00602",
@@ -15390,7 +16314,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 9,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 6
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 45,
+        "rank": 9
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 45,
+        "rank": 9
+      },
+      "total": 90
+    }
   },
   {
     "id": "r00603",
@@ -15398,7 +16352,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 10,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 51,
+        "rank": 10
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 50,
+        "rank": 10
+      },
+      "total": 101
+    }
   },
   {
     "id": "r00604",
@@ -15406,7 +16390,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 11,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 5
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 56,
+        "rank": 11
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 56,
+        "rank": 11
+      },
+      "total": 112
+    }
   },
   {
     "id": "r00605",
@@ -15414,7 +16428,37 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "男子ボディビル",
     "rank": 12,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": {
+        "marks": null,
+        "subtotal": 5
+      },
+      "prelim": {
+        "scores": null,
+        "subtotal": 59,
+        "rank": 12
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 59,
+        "rank": 12
+      },
+      "total": 118
+    }
   },
   {
     "id": "r00606",
@@ -15422,7 +16466,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 1,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 6,
+        "rank": 1
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 5,
+        "rank": 1
+      },
+      "total": 11
+    }
   },
   {
     "id": "r00607",
@@ -15430,7 +16501,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 2,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 9,
+        "rank": 2
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 10,
+        "rank": 2
+      },
+      "total": 19
+    }
   },
   {
     "id": "r00608",
@@ -15438,7 +16536,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 3,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 16,
+        "rank": 3
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 18,
+        "rank": 4
+      },
+      "total": 34
+    }
   },
   {
     "id": "r00609",
@@ -15446,7 +16571,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 4,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 19,
+        "rank": 4
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 17,
+        "rank": 3
+      },
+      "total": 36
+    }
   },
   {
     "id": "r00610",
@@ -15454,7 +16606,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 5,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 28,
+        "rank": 5
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 28,
+        "rank": 5
+      },
+      "total": 56
+    }
   },
   {
     "id": "r00611",
@@ -15462,7 +16641,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 6,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 29,
+        "rank": 6
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 29,
+        "rank": 6
+      },
+      "total": 58
+    }
   },
   {
     "id": "r00612",
@@ -15470,7 +16676,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 7,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 33,
+        "rank": 7
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 33,
+        "rank": 7
+      },
+      "total": 66
+    }
   },
   {
     "id": "r00613",
@@ -15478,7 +16711,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 8,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 7
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 38,
+        "rank": 8
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 38,
+        "rank": 8
+      },
+      "total": 76
+    }
   },
   {
     "id": "r00614",
@@ -15486,7 +16746,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 9,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 6
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 47,
+        "rank": 9
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 47,
+        "rank": 9
+      },
+      "total": 94
+    }
   },
   {
     "id": "r00615",
@@ -15494,7 +16781,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 10,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 50,
+        "rank": 10
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 49,
+        "rank": 10
+      },
+      "total": 99
+    }
   },
   {
     "id": "r00616",
@@ -15502,7 +16816,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 11,
-    "confidence": "new"
+    "confidence": "new",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 54,
+        "rank": 11
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 56,
+        "rank": 12
+      },
+      "total": 110
+    }
   },
   {
     "id": "r00617",
@@ -15510,7 +16851,34 @@
     "competitionId": "jbbf-nihon-2018",
     "category": "女子フィジーク",
     "rank": 12,
-    "confidence": "matched"
+    "confidence": "matched",
+    "detail": {
+      "judges": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "firstPickup": {
+        "marks": null,
+        "subtotal": 5
+      },
+      "secondPickup": null,
+      "prelim": {
+        "scores": null,
+        "subtotal": 59,
+        "rank": 12
+      },
+      "final": {
+        "scores": null,
+        "subtotal": 57,
+        "rank": 11
+      },
+      "total": 116
+    }
   },
   {
     "id": "r00618",
